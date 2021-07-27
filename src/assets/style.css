@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=IM+Fell+Great+Primer:ital@0;1&family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700;1,900&display=swap');
+
+body {
+    background: #1f1e1e;
+    background: url("./legend-of-the-cryptids-dragon-queen-7o-2560x1440.jpg") center center fixed;
+    background-size: cover;
+    margin: 0px;
+}
+
+#app {
+    font-family: "Source Serif Pro", Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: black;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "IM Fell Great Primer SC", "Source Serif Pro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
