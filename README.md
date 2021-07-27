@@ -1,4 +1,4 @@
-# battletracker
+# Battletracker
 D&D 5e web application created to be the GM's battle based companion and keep track of things such as the initative order, monster HP and stats.
 
 ## Project setup
